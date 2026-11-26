@@ -1,0 +1,1 @@
+{"name":"catbuild360","version":"1.0.0","scripts":{"seed":"python3 seed.py","start":"node --no-warnings server.js"},"engines":{"node":">=22.5"},"dependencies":{"nodemailer":"^10.6.1"}}
